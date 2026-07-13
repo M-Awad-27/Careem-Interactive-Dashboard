@@ -57,3 +57,14 @@ The application uses an interactive top-right bookmark layout (**Intro, Overview
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/M-Awad-27/Careem-Interactive-Dashboard.git](https://github.com/M-Awad-27/Careem-Interactive-Dashboard.git)
+2.**Open in Power BI:**
+      Ensure you have Power BI Desktop installed.
+Open the Dunkins Dashboard.pbix file included in this repository.
+
+3.**Explore the Insights:**
+                     Click through the Intro, Overview, and Details navigation tabs at the top right of the application layout to dynamically slice the operational data.
+## 🤝 Contributing
+Feedback, issues, and aesthetic enhancement requests are always welcome! Feel free to open an issue or submit a pull request.
+
+## 📝 License
+This project is open-source and available under the MIT License.
